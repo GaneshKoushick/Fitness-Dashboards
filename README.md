@@ -1,6 +1,7 @@
 # Fitness Dashboard — Power BI Project
 
-![Dashboard Screenshot]((https://drive.google.com/file/d/1Dg56R3PIBUAL4y_E3SIjs1wY0aigHFyz/view?usp=sharing))
+![Dashboard Screenshot](https://drive.google.com/uc?id=1Dg56R3PIBUAL4y_E3SIjs1wY0aigHFyz)
+
 
 ## 📖 Overview
 This project is a **Power BI dashboard** built using a single Excel dataset (`Dataset.xlsx`).  
