@@ -74,5 +74,5 @@ Dataset (`Dataset.xlsx`) and background image are available here:
 ---
 
 ## 📺 Reference
-This dashboard was inspired by the YouTube tutorial:  
+This dashboard was inspired and referred by the YouTube tutorial:  
 🔗 [Fitness Dashboard in Power BI (YouTube)](https://youtu.be/KH3TlyuEPxk?feature=shared)
