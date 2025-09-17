@@ -2,11 +2,10 @@
 
 ![Dashboard Screenshot](https://drive.google.com/uc?id=1Dg56R3PIBUAL4y_E3SIjs1wY0aigHFyz)
 
-
 ## 📖 Overview
 This project is a **Power BI dashboard** built using a single Excel dataset (`Dataset.xlsx`).  
 It tracks **fitness memberships, monthly activity, revenue, expenses, and profit**.  
-All calculations are implemented using **Power BI measures** on top of the dataset.
+All calculations are implemented using **Power BI measures** on top of the dataset.  
 
 ---
 
@@ -17,10 +16,8 @@ All calculations are implemented using **Power BI measures** on top of the datas
 │ └─ Dataset.xlsx ← raw dataset (Excel file)
 ├─ dashboard/
 │ └─ FitnessDashboard.pbix ← Power BI report file
-├─ assets/
-│ └─ dashboard.png ← dashboard screenshot
 
-markdown
+yaml
 Copy code
 
 ---
@@ -73,3 +70,9 @@ Dataset (`Dataset.xlsx`) and background image are available here:
 2. Download the dataset and background image from the Google Drive link above.  
 3. Open `dashboard/FitnessDashboard.pbix` in Power BI Desktop.  
 4. Ensure the dataset path is updated if needed (`data/Dataset.xlsx`).  
+
+---
+
+## 📺 Reference
+This dashboard was inspired by the YouTube tutorial:  
+🔗 [Fitness Dashboard in Power BI (YouTube)](https://youtu.be/KH3TlyuEPxk?feature=shared)
